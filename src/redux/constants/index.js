@@ -1,0 +1,8 @@
+const ACTION_TYPES = {
+  CLEAR: 'CLEAR',
+  FETCH: 'FETCH_USER',
+  AUTH_ERROR: 'AUTH_ERROR',
+  LOGOUT: 'LOGOUT',
+};
+
+export default ACTION_TYPES;
